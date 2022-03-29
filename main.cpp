@@ -1,10 +1,3 @@
-/*
- * main.cpp
- *
- *  Created on: 25 ����. 2021 �.
- *      Author: ����� ������
- */
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
